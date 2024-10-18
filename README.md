@@ -15,22 +15,18 @@ The user can enter details for a new contact, including First Name, Last Name, A
 
 ### Detailed Functionality
 
-**Show All Contacts** 👥: The user can view all contacts stored in the database.
+- **Show All Contacts** 👥: The user can view all contacts stored in the database.
+- **Add New Contact** ➕: The user enters contact details, which are then stored in the database.
+- **Search** 🔍: The user can search for a contact by name. If the contact exists, their details are displayed. 
+- **Edit** ✏️: The user can edit and update the contact's details by searching a contact by name.
+- **Delete** ❌: The user can delete a contact by entering the name in the provided field.
 
-**Add New Contact** ➕: The user enters contact details, which are then stored in the database.
-
-**Search** 🔍: The user can search for a contact by name. If the contact exists, their details are displayed. 
-
-**Edit** ✏️: The user can edit and update the contact's details by searching a contact by name.
-
-**Delete** ❌: The user can delete a contact by entering the name in the provided field.
-</br>
-</br>
 ### Database Operations
-- Insert: Adds a new contact to the database.
-- Select: Retrieves contact information based on the user's input.
-- Update: Modifies existing contact details.
-- Delete: Removes a contact from the database.
+
+- **Insert** 📝: Adds a new contact to the database.
+- **Select** 🔍: Retrieves contact information based on the user's input.
+- **Update** 🔄: Modifies existing contact details.
+- **Delete** 🗑️: Removes a contact from the database.
 
 ### User Experience Enhancements 💡:
 
